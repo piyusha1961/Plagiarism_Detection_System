@@ -1,0 +1,4 @@
+Data structures are used to organize and store data efficiently.
+A stack follows the last in first out principle.
+A queue follows the first in first out principle.
+Trees are hierarchical data structures.

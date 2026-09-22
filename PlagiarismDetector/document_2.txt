@@ -1,0 +1,4 @@
+Data structures are used to organize and store information efficiently.
+A stack follows the last in first out principle.
+A queue is used for first in first out operations.
+Graphs are used to represent relationships between objects.
